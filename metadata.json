@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Adventure",
+  "description": "A dynamic text adventure game where the story and visuals are generated in real-time by AI. Each choice you make crafts a unique journey with new scenarios and illustrations created by Gemini and Imagen.",
+  "requestFramePermissions": []
+}
